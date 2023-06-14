@@ -11743,14 +11743,14 @@ body {
 }
 
 
-.mock-3,img{
+.mock-3,.img{
     max-width: 340px;
  } 
 .ho:hover{
     color: #0a58ca; 
 }
 @media (min-width:750px) {
-    .mock-3,img{
+    .mock-3,.img{
         max-width: 500px;
         padding-left: 25%;
      } 
